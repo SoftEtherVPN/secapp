@@ -4,4 +4,6 @@ bin/secapp
 obj/
 *.ilk
 *.dmp
-
+*.sdf
+*.suo
+ipch/
